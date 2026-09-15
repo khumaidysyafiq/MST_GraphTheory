@@ -2,7 +2,7 @@
 
 ## Prerequisites to Run the Code
 
-- **Python**: Python 3 (tested on Python 3.12).
+- **Python**: Python 3 (tested on Programiz)
 - No additional libraries are required
 ---
 
