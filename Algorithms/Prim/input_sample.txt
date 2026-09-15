@@ -1,1 +1,14 @@
-
+# Graph from the homework slide (MIT Urban Operations Research, adapted)
+# Format: VERTEX1 VERTEX2 WEIGHT
+A B 7
+A C 6
+A G 5
+A F 10
+B C 5
+B D 7
+B E 9
+C E 7
+C F 9
+D E 5
+E F 5
+F G 6
