@@ -1,0 +1,17 @@
+# ==============================================================================
+# Sample Input Graph: MIT Urban Operations Research (Fig 6.11)
+# Format: <Node1> <Node2> <Weight>
+# Vertices: A, B, C, D, E, F, G (7 nodes, 12 edges)
+# ==============================================================================
+A B 7
+A C 6
+A G 5
+A F 10
+G F 6
+B C 5
+B D 7
+B E 9
+C E 7
+C F 9
+F E 5
+E D 5
