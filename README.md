@@ -62,7 +62,7 @@ __Steps__
 
 **Boruvka's:**
 - Python 3.x
-- No additional libraries are required.
+- No additional libraries that is required...
 
 ### Instructions
 
