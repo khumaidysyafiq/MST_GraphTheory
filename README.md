@@ -1,11 +1,12 @@
 # Informatics ITS Graph Theory IUP 
 ## Group 1 Assignment 2
 
-| Name                        | NRP        |
-| Khumaidy Syafiq El Maududy. | 5025251012 |
-| Renato Kiran Arisandi.      | 5025251015 |
-| Keven John Gondowardojo     | 5025251016 |
-| Agile Octa Agrakha Handrian | 5025251010 |
+|    NRP     |           Nama              |
+| :--------: |       :------------:        |
+| 5025251012 | Khumaidy Syafiq El Maududy  |
+| 5025251015 | Renato Kiran Arisandi       |
+| 5025251016 | Keven John Gondowardojo     |
+| 5025251010 | Agile Octa Agrakha Handrian |
 
 ## Algorithm Explanation
 
