@@ -66,7 +66,7 @@ __Steps__
 
 ### Instructions
 
-**Boruvka's**
+**Boruvka's:**
 1. Open the terminal in the project directory
 2. Run the following command:
 
@@ -82,7 +82,7 @@ vertex1 vertex2 weight
 6. The program will display the Minimum Spanning Tree (MST) and it's total weight
 
 ### Samples
-**Boruvka's**
+**Boruvka's:**
 
 **Input:**
 ```text
