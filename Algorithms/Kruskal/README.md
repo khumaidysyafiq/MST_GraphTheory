@@ -136,8 +136,6 @@ Status: [SUCCESS] Fully Connected Minimum Spanning Tree preserved.
 ---
 
 ## AI Tools Usage Disclosure
-
-In compliance with Institut Teknologi Sepuluh Nopember academic honesty guidelines for group coursework:
 - **AI Model / Assistant Used**: Gemini
 - **Scope of AI Assistance**:
   1. Assisted in structuring the Disjoint Set Union (DSU) heuristics (path compression and union by rank).
