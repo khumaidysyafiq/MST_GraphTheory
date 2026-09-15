@@ -55,11 +55,13 @@ __Steps__
 
 ### Prerequisites
 
-**Boruvska's:**
+**Boruvka's:**
 - Python 3.x
 - No additional libraries are required.
 
 ### Instructions
+
+**Boruvka's**
 1. Open the terminal in the project directory.
 2. Run the following command:
 
