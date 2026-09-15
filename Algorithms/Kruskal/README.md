@@ -1,4 +1,4 @@
-# Kruskal's Algorithm — Minimum Spanning Tree (MST) & Dynamic Failure Simulation
+# Kruskal's Algorithm — Minimum Spanning Tree (MST) & Fail Cases
 
 ## Prerequisites to Run the Code
 
@@ -75,7 +75,7 @@ MST Edges Selected: [(A-G, w=5), (B-C, w=5), (E-D, w=5), (F-E, w=5), (A-C, w=6),
 Total MST Weight: 32.0
 ```
 
-### Dynamic Failure Adaptation Reports (Task 4)
+### Fail Adaptation
 
 #### Scenario 1: Critical Link Failure (Edge $(G, F)$ severed)
 ```text
