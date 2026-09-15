@@ -74,5 +74,36 @@ __Steps__
 python boruvka.py
 ```
 ### Samples
+**Boruvka's**
+
+**Input:**
+
+```text
+Vertices: A B C D E F G
+Number of edges: 12
+
+A B 7
+A C 6
+A G 5
+A F 10
+G F 6
+F C 9
+F E 5
+C E 7
+C B 5
+E B 9
+E D 5
+B D 7
+
+Minimum Spanning Tree:
+A - G : 5
+B - C : 5
+D - E : 5
+E - F : 5
+F - G : 6
+A - C : 6
+
+Total Weight: 32
+```
 
 ## Extras
