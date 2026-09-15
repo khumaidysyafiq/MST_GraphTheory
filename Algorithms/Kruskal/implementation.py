@@ -1,4 +1,19 @@
 #!/usr/bin/env python3
+"""
+kruskal_mst.py
+==============
+Senior-grade implementation of Kruskal's Algorithm for Minimum Spanning Tree (MST),
+featuring Disjoint Set Union (DSU / Union-Find) with path compression and union by rank.
+
+Includes dynamic failure simulation:
+- Simulates edge failures (blocked roads, severed links)
+- Simulates node failures (destroyed junctions, downed vertices)
+- Automatically adapts to find new MST or Minimum Spanning Forest (MSF)
+- Generates detailed step-by-step execution traces and adaptation comparative reports.
+
+Graph modeled from MIT Urban Operations Research (Larson & Odoni, Figure 6.11).
+"""
+
 from __future__ import annotations
 from dataclasses import dataclass
 from typing import Dict, List, Tuple, Set, Optional
@@ -346,12 +361,6 @@ def run_full_suite():
     sim_node = run_kruskal(nodes, edges, failed_nodes={"C"})
     print_step_table(sim_node.steps)
     print_adaptation_report(baseline, sim_node, "Node Failure (Node C destroyed)")
-
-    # 4. Disconnecting Failure Simulation
-    print("\n[SCENARIO 4] SIMULATION: Disconnecting Failure -> Spanning Forest (A-G and G-F fail)")
-    sim_forest = run_kruskal(nodes, edges, failed_edges=[("A", "G"), ("G", "F")])
-    print_step_table(sim_forest.steps)
-    print_adaptation_report(baseline, sim_forest, "Disconnection into Minimum Spanning Forest")
 
 
 def generate_random_graph(
