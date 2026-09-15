@@ -1,22 +1,19 @@
 # Boruvka's Algorithm
 # Finding Minimum Spanning Tree (MST)
 
-vertices = ['A', 'B', 'C', 'D', 'E', 'F', 'G']
+# Input vertices
+vertices = input("Enter vertices (separated by spaces): ").split()
 
-edges = [
-    ('A', 'B', 7),
-    ('A', 'C', 6),
-    ('A', 'G', 5),
-    ('A', 'F', 10),
-    ('G', 'F', 6),
-    ('F', 'C', 9),
-    ('F', 'E', 5),
-    ('C', 'E', 7),
-    ('C', 'B', 5),
-    ('E', 'B', 9),
-    ('E', 'D', 5),
-    ('B', 'D', 7)
-]
+# Input edges
+edges = []
+
+edge_count = int(input("Enter number of edges: "))
+
+print("Enter each edge in the format: vertex1 vertex2 weight")
+
+for i in range(edge_count):
+    u, v, weight = input(f"Edge {i + 1}: ").split()
+    edges.append((u, v, int(weight)))
 
 
 # Disjoint Set
@@ -75,7 +72,12 @@ while len(mst) < len(vertices) - 1:
 
 
 # Output
-print("Minimum Spanning Tree:")
+print("\nMinimum Spanning Tree:")
+
+for u, v, weight in mst:
+    print(f"{u} - {v} : {weight}")
+
+print("Total Weight:", total_weight)
 
 for u, v, weight in mst:
     print(f"{u} - {v} : {weight}")
