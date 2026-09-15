@@ -78,3 +78,10 @@ A - B : 7
 Total Weight: 28
 ```
 Boruvka's algorithm recalculates the cheapest outgoing edges using the remaining graph and successfully connects all remaining vertices.
+
+## AI Tools Usage Disclosure
+- **AI Model / Assistant Used**: ChatGPT
+- **Scope of AI Assistance**:
+  1. Assisted in understanding Boruvka's algorithm and its implementation.
+  2. Assisted in reviewing the implementation and preparing test cases and documentation.
+- **Verification & Ownership**: The implementation, test results, and explanations have been reviewed and verified by the group member.
