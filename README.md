@@ -9,6 +9,7 @@
 
 ### Algorithm 3
 ### Boruvska's Algorithm
+![Uploading Boruvka's_algorithm_(Sollin's_algorithm)_Anim.gif…]()
 
 
 ## Code
