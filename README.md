@@ -75,9 +75,7 @@ python boruvka.py
 ```
 ### Samples
 **Boruvka's**
-
 **Input:**
-
 ```text
 Vertices: A B C D E F G
 Number of edges: 12
@@ -94,7 +92,9 @@ C B 5
 E B 9
 E D 5
 B D 7
-
+```
+**Input:**
+```text
 Minimum Spanning Tree:
 A - G : 5
 B - C : 5
