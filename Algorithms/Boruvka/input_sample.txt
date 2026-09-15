@@ -1,0 +1,16 @@
+Enter vertices (separated by spaces): A B C D E F G
+Enter number of edges: 12
+Enter each edge in the format: vertex1 vertex2 weight
+
+Edge 1: A B 7
+Edge 2: A C 6
+Edge 3: A G 5
+Edge 4: A F 10
+Edge 5: G F 6
+Edge 6: F C 9
+Edge 7: F E 5
+Edge 8: C E 7
+Edge 9: C B 5
+Edge 10: E B 9
+Edge 11: E D 5
+Edge 12: B D 7
