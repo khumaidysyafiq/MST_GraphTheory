@@ -1,5 +1,5 @@
 # Informatics ITS Graph Theory IUP 
-## Group 1 Assignment 1
+## Group 1 Assignment 2
 
 ## Algorithm Explanation
 
@@ -8,7 +8,7 @@
 
 Prim’s algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, weighted, undirected graph. It works by starting from any vertex and repeatedly adding the minimum-weight edge that connects a vertex already in the MST to a vertex outside it.
 
-*Steps*
+_Steps_
 
 1. Start with any vertex.
 
