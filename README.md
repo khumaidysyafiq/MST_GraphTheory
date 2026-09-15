@@ -67,12 +67,20 @@ __Steps__
 ### Instructions
 
 **Boruvka's**
-1. Open the terminal in the project directory.
+1. Open the terminal in the project directory
 2. Run the following command:
 
 ```bash
-python boruvka.py
+python implementation.py
 ```
+3. Enter the vertices when it's prompted
+4. Enter the number for the edges
+5. Enter each edge using the format:
+```text
+vertex1 vertex2 weight
+```
+6. The program will display the Minimum Spanning Tree (MST) and it's total weight
+
 ### Samples
 **Boruvka's**
 **Input:**
