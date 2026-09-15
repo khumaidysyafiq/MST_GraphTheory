@@ -83,6 +83,7 @@ vertex1 vertex2 weight
 
 ### Samples
 **Boruvka's**
+
 **Input:**
 ```text
 Vertices: A B C D E F G
