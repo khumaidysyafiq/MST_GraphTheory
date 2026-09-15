@@ -9,6 +9,8 @@
 
 ### Algorithm 3
 
+## Boruvska's Algorithm
+
 ## Code
 
 ### Prerequisites
