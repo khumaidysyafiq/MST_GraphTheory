@@ -8,7 +8,7 @@
 ### Algorithm 2
 
 ### Algorithm 3
-# Boruvska's Algorithm
+#### Boruvska's Algorithm
 
 ## Code
 
