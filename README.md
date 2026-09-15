@@ -117,7 +117,7 @@ Total Weight: 32
 
 ## Extras
  
-_### PDF Report: https://docs.google.com/document/d/1dUxCAeh-EWFMoCXYLiiq1xA0WyRx0lT65QbrU_OLGAQ/edit?usp=sharing_
+### PDF Report: https://docs.google.com/document/d/1dUxCAeh-EWFMoCXYLiiq1xA0WyRx0lT65QbrU_OLGAQ/edit?usp=sharing
 
 ### AI Prompts
 
