@@ -49,7 +49,7 @@ __Steps__
 
 ### Prerequisites
 
-**Brovka's:**
+**Boruvska's:**
 - Python 3.x
 - No additional libraries are required.
 
