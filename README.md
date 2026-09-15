@@ -9,6 +9,7 @@
 
 ### Algorithm 3
 ### Boruvska's Algorithm
+https://upload.wikimedia.org/wikipedia/commons/2/2e/Boruvka%27s_algorithm_%28Sollin%27s_algorithm%29_Anim.gif?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20120531212930
 
 ## Code
 
