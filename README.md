@@ -49,6 +49,10 @@ __Steps__
 
 ### Prerequisites
 
+Brovka's
+- Python 3.x
+- No additional libraries are required.
+
 ### Instructions
 
 ### Samples
