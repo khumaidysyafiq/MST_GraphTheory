@@ -60,7 +60,12 @@ __Steps__
 - No additional libraries are required.
 
 ### Instructions
+1. Open the terminal in the project directory.
+2. Run the following command:
 
+```bash
+python boruvka.py
+```
 ### Samples
 
 ## Extras
