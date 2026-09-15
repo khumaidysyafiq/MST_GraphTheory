@@ -121,8 +121,18 @@ Total Weight: 32
 
 ### AI Prompts
 
-``` explain the algorithms of Prim, Kruskal, Boruvka ```
-``` i want a pyhton code for the boruvska in mst, where i can put input and errors ```
-``` what are the edge cases such that traversing the graph fails ```
-``` given my current code make the visualizations for the kruskal mst, allow exporting as image step by step and also gif ```
-``` visualize the graph treversal in gif ```
+``` 
+explain the algorithms of Prim, Kruskal, Boruvka
+```
+``` 
+i want a pyhton code for the boruvska in mst, where i can put input and errors
+```
+``` 
+what are the edge cases such that traversing the graph fails
+```
+``` 
+given my current code make the visualizations for the kruskal mst, allow exporting as image step by step and also gif
+```
+``` 
+visualize the graph treversal in gif
+```
