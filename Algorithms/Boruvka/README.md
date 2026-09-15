@@ -24,4 +24,16 @@ vertex1 vertex2 weight
 ---
 
 ## Samples Result
+### 1. Successful Run
+
+```text
+Minimum Spanning Tree:
+A - G : 5
+B - C : 5
+D - E : 5
+E - F : 5
+F - G : 6
+A - C : 6
+
+Total Weight: 32
 
